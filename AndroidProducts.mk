@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_miatoll.mk
+    astral_miatoll:$(LOCAL_DIR)/lineage_miatoll.mk

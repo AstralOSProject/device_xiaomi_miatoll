@@ -16,3 +16,5 @@ TARGET_OTA_ASSERT_DEVICE := curtana,excalibur,gram,joyeuse,miatoll
 
 # Inherit proprietary blobs
 include vendor/xiaomi/miatoll/BoardConfigVendor.mk
+
+include vendor/lineage/config/BoardConfigLineage.mk
